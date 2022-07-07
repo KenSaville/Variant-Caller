@@ -12,3 +12,6 @@ and
 SRR: SRR19576437 ( asequencing run of Mt isolates from elephants)
 
 These examples were eseentially chosen at random just to test the workflow. 
+
+The CLI code underlying the workflow was adapted from the biostar handbook:  https://www.biostarhandbook.com/
+
