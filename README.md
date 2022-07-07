@@ -1,2 +1,2 @@
 # Variant-Caller
-A LAtch Bio workflow to call DNA sequence variants
+A Latch Bio workflow to call DNA sequence variants
